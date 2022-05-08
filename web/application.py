@@ -2,6 +2,7 @@
 This script runs the FlaskTemplate application using a development server.
 """
 
+
 from os import environ
 from FlaskTemplate import app
 

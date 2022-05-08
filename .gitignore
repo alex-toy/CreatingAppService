@@ -1,0 +1,5 @@
+/commands/VirtualMachine/ip.json
+venv
+.venv
+/web/FlaskTemplate/__pycache__/*.pyc
+.azure
